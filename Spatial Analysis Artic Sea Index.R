@@ -1,4 +1,4 @@
-#Midterm 1:
+
 rm(list=ls())
 
 table <- read.table("sea_ice_montly.txt")
